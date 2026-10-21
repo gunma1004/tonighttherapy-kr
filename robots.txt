@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tonighttherapy-kr.netlify.app/sitemap.xml
